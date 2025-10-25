@@ -10,6 +10,9 @@ Acest proiect conține exemple și exerciții pentru concepte fundamentale de Pr
 - [Aggregation and Inheritance](src/Aggregation_and_Inheritance)  
   Exemple despre agregare, moștenire și relații între clase.
 
+- [Collections](src/Collections)  
+  Exemple despre colectii si implementari
+
 - [Constructors, References & Static](src/Constructors_references_static)  
   Exemple despre constructori, referințe și membri statici.
 
